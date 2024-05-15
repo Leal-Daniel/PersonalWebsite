@@ -4,4 +4,4 @@ Simple personal website created from scratch using JavaScript, HTML, and CSS.
 - Projects section needs to be updated! Will be done soon.
 
 ## Live Preview
-[![Website](images/website-cover.JPG)](http://www.lealdaniel.net)
+[![Website](images/website-gif.gif)](http://www.lealdaniel.net)
